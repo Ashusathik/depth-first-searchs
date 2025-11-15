@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: </h3>
-<h3>Register Number:     </h3>
+<h3>Name: ASHRATHI S </h3>
+<h3>Register Number:  212224230025   </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -119,6 +119,9 @@ print(traversedpath)
 
 
 <img width="939" height="537" alt="image" src="https://github.com/user-attachments/assets/48daa3b8-ad16-4b52-9b88-506d96f2802c" />
+
+# Result:
+Thus, a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 
 
 
